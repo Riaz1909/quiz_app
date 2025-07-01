@@ -4,7 +4,7 @@ A simple interactive quiz web application built with HTML, CSS, and JavaScript. 
 
 ## 🚀 Live Preview
 
-👉 [View Live Website](http://127.0.0.1:5500/quiz.html)  
+[Click here to view the portfolio on GitHub](https://riaz1909.github.io/<quiz_app>/) 
 
 
 ---
