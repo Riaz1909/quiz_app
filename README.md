@@ -34,18 +34,6 @@ quiz_app/
 - CSS3
 - JavaScript (ES6)
 
----
-
-## 📸 Screenshots
-
-### Home Page
-![Home Page](screenshots/home.png)
-
-### Quiz in Progress
-![Quiz Question](screenshots/quiz-question.png)
-
-### Quiz Result
-![Quiz Result](screenshots/result.png)
 
 ---
 
