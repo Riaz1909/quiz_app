@@ -6,6 +6,7 @@ A simple interactive quiz web application built with HTML, CSS, and JavaScript. 
 ## 🚀 View My Quiz App Online
 
 👉 **[Click here to view the Quiz App on GitHub Pages](https://Riaz1909.github.io/quiz_app/)**  
+it is not working properly so kindly downlaod all the files 
 
 
 ---
