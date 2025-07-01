@@ -12,6 +12,7 @@ A simple interactive quiz web application built with HTML, CSS, and JavaScript. 
 ## 📁 Project Structure
 quiz_app/
 ├── index.html # Home page with Start & Cancel buttons
+
 ├── quiz.html # Actual quiz page
 ├── script.js # Quiz logic
 ├── style.css # Styling
